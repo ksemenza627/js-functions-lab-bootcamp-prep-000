@@ -4,7 +4,7 @@ let number = 20;
 let mother = "Mother's Day";
 
 function happyHolidays(){
-  return "Happy holiday!";
+  return "Happy holidays!";
 }
 
 happyHolidays();
@@ -16,6 +16,6 @@ function happyHolidaysTo(name){
 happyHolidaysTo();
 
 function holidayCountdown(mother, number){
-  return 'Its ${number} days until ${mother}!';
+  return 'It\'s ${number} days until ${mother}!';
 }
 holidayCountdown();
