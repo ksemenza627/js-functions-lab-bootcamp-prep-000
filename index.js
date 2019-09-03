@@ -1,5 +1,5 @@
 let name = 'you'
-let holida = 'Independence Day';
+let holidays = 'Independence Day';
 let number = 20;
 let mother = "Mother's Day";
 
