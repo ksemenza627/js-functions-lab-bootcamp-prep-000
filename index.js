@@ -15,7 +15,7 @@ function happyHolidaysTo(holiday, name){
 
 happyHolidaysTo();
 
-function holidayCountdown(mother, number){
+function holidayCountdown(number, mother){
   return 'It\'s ${number} days until ${mother}!';
 }
 holidayCountdown();
