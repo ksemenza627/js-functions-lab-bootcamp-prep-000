@@ -1,4 +1,4 @@
-let name = 'you'
+let name = 'you!'
 let holiday = 'Independence Day';
 let number = 20;
 let mother = "Mother's Day";
@@ -10,7 +10,7 @@ function happyHolidays(){
 happyHolidays();
 
 function happyHolidaysTo(holiday, name){
-  return 'Happy ${holidays}, ${name}!';
+  return 'Happy ${holidays}, ${name}';
 }
 
 happyHolidaysTo();
