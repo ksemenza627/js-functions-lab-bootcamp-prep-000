@@ -13,6 +13,12 @@ function happyHolidaysTo(name){
   return 'Happy holidays, ${name}!';
 }
 
+happyHolidays();
+
+function happyHolidayTo(holiday, name){
+  return 'Happy ${holiday}, ${name}!'
+}
+
 happyHolidaysTo();
 
 function holidayCountdown(number, mother){
